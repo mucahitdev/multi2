@@ -11,7 +11,7 @@ import SwiftUI
 struct multi2App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ProfileView()
         }
     }
 }
